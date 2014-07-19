@@ -1,12 +1,20 @@
 {
   "name": "hogan",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bmullan91/hogan.git"
+  },
   "description": "hogan === hogan.js",
   "main": "./node_modules/hogan.js/lib/hogan.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brian Mullan",
+  "keywords": [
+    "hogan",
+    "hogan.js"
+  ],
+  "author": "Brian Mullan <bmullan91@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "hogan.js": "*"
