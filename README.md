@@ -8,7 +8,7 @@ var hogan = require('hogan.js');
 
 But I really like hogan :)
 
-##Intall
+##Install
 
     npm install hogan
 
